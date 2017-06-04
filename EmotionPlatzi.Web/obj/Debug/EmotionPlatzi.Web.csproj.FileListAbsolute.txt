@@ -1,0 +1,129 @@
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\ApplicationInsights.config
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\csc.exe
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\vbc.exe
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll.config
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.pdb
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Common.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.xml
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.App.config
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.dll
+c:\users\cmorales\documents\visual studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.pdb
+C:\Users\cmorales\Documents\Visual Studio 2015\Projects\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csprojResolveAssemblyReference.cache
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\ApplicationInsights.config
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\csc.exe
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\vbc.exe
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll.config
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EmotionPlatzi.Web.pdb
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Common.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ProjectOxford.Emotion.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\EntityFramework.SqlServer.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.Web.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\Newtonsoft.Json.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Extensions.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Primitives.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Razor.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Webpages.Razor.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Helpers.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Mvc.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Net.Http.Formatting.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\bin\System.Web.Http.WebHost.xml
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.csproj.App.config
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.dll
+D:\Platzi\Curso Profesional de C# y ASP.Net\EmotionPlatzi\EmotionPlatzi.Web\obj\Debug\EmotionPlatzi.Web.pdb

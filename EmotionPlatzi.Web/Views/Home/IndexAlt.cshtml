@@ -1,0 +1,13 @@
+﻿@model EmotionPlatzi.Web.Models.Home
+
+@{
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>@Model.WelcomeMessage</h2>
+<h4>@Model.FooterMessage</h4>
+
+@section scripts{
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="~/Scripts/modernizr-2.6.2.js"></script>
+    }
